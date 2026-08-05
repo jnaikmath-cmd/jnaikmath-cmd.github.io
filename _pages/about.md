@@ -6,7 +6,7 @@ subtitle: <a href="https://www.iitgoa.ac.in/">Indian Institute of Technology, Go
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: jitendra.jpg
   image_circular: true # crops the image into a circle
   more_info: >
     <div class="text-center">
