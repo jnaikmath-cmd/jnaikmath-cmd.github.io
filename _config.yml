@@ -282,16 +282,14 @@ jekyll-archives:
   books:
     enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 
-display_tags: ["mathematics", "machine-learning"] # these tags will be displayed on the front page of your blog
-display_categories: [] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Saw]
-  first_name: [Dhiraj]
+  last_name: [Naik]
+  first_name: [Jitendra Nath]
 
   style: apa
   locale: en
