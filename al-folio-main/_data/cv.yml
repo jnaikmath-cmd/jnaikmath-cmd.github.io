@@ -1,0 +1,109 @@
+cv:
+  name: Dhiraj Saw
+  label: Ph.D. Scholar in Mathematics
+  email: dhirajsaw7979@gmail.com
+  location: Goa, India
+  image: prof_pic.jpg
+  summary: I am currently pursuing a Ph.D. in Mathematics at the Indian Institute of Technology (IIT), Goa. My research focuses on solving high-dimensional differential equations using the Feynman-Kac formula and Backward Stochastic Differential Equations (BSDEs), with specific interests in SciML and Physics-Informed Neural Networks (PINNs).
+
+  social_networks:
+    - network: Email
+      username: dhirajsaw7979@gmail.com
+    - network: Phone
+      username: "+916206014184"
+
+  address:
+    city: Goa
+    region: Goa
+    countryCode: IN
+
+  sections:
+    Education:
+      - institution: Indian Institute of Technology, Goa
+        location: India
+        area: Mathematics
+        studyType: Doctor of Philosophy
+        start_date: 2024
+        end_date: Present
+        score: "3.61/10"
+        courses: "Machine Learning, Advanced Partial Differential Equations, Stochastic Calculus and Applications, Stochastic PDEs, Numerical Approximations of PDEs, Finite Element Methods"
+        highlights:
+          - "Advisor: Dr. Lok Pati Tripathi"
+
+      - institution: Indian Institute of Technology, Bhubaneswar
+        location: Odisha, India
+        area: Mathematics
+        studyType: Master of Science
+        start_date: 2022
+        end_date: 2024
+        score: "8.36/10"
+
+      - institution: Dr. Shyama Prasad Mukherjee University
+        location: Ranchi, India
+        area: Mathematics
+        studyType: Bachelor of Science
+        start_date: 2019
+        end_date: 2022
+        score: "8.94/10"
+
+    Experience:
+      - company: Indian Institute of Technology, Goa
+        position: Teaching Assistant
+        location: Goa, India
+        start_date: 2024
+        end_date: Present
+        summary: Assisting in undergraduate and graduate mathematics courses.
+        highlights:
+          - "MA101: Calculus"
+          - "MA203: Numerical Analysis"
+
+    Awards:
+      - title: GATE (Mathematics)
+        date: 2024
+        awarder: Ministry of Education
+        summary: "Achieved All India Rank (AIR) 1020"
+      - title: IIT JAM (Mathematics)
+        date: 2022
+        awarder: Indian Institutes of Technology
+        summary: "Achieved All India Rank (AIR) 528"
+      - title: NET (Mathematics)
+        date: 2024
+        awarder: CSIR/UGC
+        summary: "Qualified for Ph.D."
+
+    Projects:
+      - name: High-Dimensional Differential Equations
+        summary: Ph.D. Research utilizing the Feynman-Kac formula and Backward Stochastic Differential Equations (BSDEs).
+        highlights:
+          - "Numerical methodologies for the Black-Scholes model"
+          - "PINNs for solving high-dimensional heat equations"
+        start_date: 2024
+        end_date: Present
+
+      - name: Inverse Elliptic PDEs
+        summary: A Machine Learning and Finite Element Framework via Dirichlet-to-Neumann (DtN) Mapping.
+
+      - name: MNIST Dataset Study
+        summary: Comparative Study of Manual Optimizers and Support Vector Machines.
+
+    Skills:
+      - name: Computational
+        keywords: "MATLAB, Python, C++, Fortran, FEniCS, Data Structures"
+      - name: Typesetting
+        keywords: "LaTeX, MS Word"
+
+    Languages:
+      - name: Hindi
+        summary: Native
+      - name: English
+        summary: Fluent
+
+    Interests:
+      - name: Research
+        keywords: "Scientific Machine Learning (SciML), PINNs, Numerical Methods for PDEs, Stochastic Differential Equations, CFD"
+
+    References:
+      - name: Dr. Lok Pati Tripathi
+        reference: "Assistant Professor, IIT Goa. Email: lokpati@iitgoa.ac.in"
+      - name: Dr. Saumya Bajpai
+        reference: "Associate Professor, IIT Goa. Email: saumya@iitgoa.ac.in"
