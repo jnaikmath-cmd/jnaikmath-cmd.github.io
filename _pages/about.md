@@ -6,39 +6,23 @@ subtitle: <a href="https://www.iitgoa.ac.in/">Indian Institute of Technology, Go
 
 profile:
   align: right
-  image: ddk.jpg
-  image_circular: true 
+  image: prof_pic.jpg
+  image_circular: true # crops the image into a circle
   more_info: >
     <div class="text-center">
-      <p>Ph.D. Scholar (Mathematics)</p>
-      <p>IIT Goa, India</p>
+    <p>Ph.D. Research Scholar</p>
+    <p>IIT Goa, India</p>
     </div>
 
-selected_papers: false 
-social: true 
-
-announcements:
-  enabled: false
-  scrollable: true 
-  limit: 3 
-
-latest_posts:
-  enabled: true
-  scrollable: true 
-  limit: 3 
+news: true # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected"
+social: true # includes social icons at the bottom of the page
 ---
 
-## Biography
+I am Jitendra Nath Naik, a Ph.D. Research Scholar in Mathematics at the Indian Institute of Technology (IIT) Goa, working under the supervision of Dr. Lok Pati Tripathi.
 
-I am **Dhiraj Saw**, a Ph.D. Scholar in Mathematics at the Indian Institute of Technology (IIT), Goa, working under the supervision of **Dr. Lok Pati Tripathi**. My academic journey began with a Bachelor's from Dr. Shyama Prasad Mukherjee University, Ranchi (2022), followed by a Master of Science in Mathematics from IIT Bhubaneswar in 2024.
+My research addresses both the theoretical and computational challenges associated with Stochastic Partial Differential Equations (SPDEs). On the theoretical side, I investigate the well-posedness and regularity of solutions for these equations. Computationally, I focus on developing robust numerical algorithms for SPDEs, implementing and verifying these methods utilizing MATLAB and FreeFEM++.
 
-## Research Focus
+Currently, I am preparing and submitting manuscripts focused on optimal error estimates of Finite Element Methods for semilinear SPDEs, as well as the pathwise regularity for multidimensional semilinear SPDEs with rough initial data. 
 
-My research lies at the intersection of **Stochastic Analysis** and **Scientific Machine Learning (SciML)**. Specifically, I work on solving high-dimensional differential equations using:
-* **Feynman-Kac Formula** & Backward Stochastic Differential Equations (BSDEs).
-* **Physics-Informed Neural Networks (PINNs)** for high-dimensional heat equations.
-* **Numerical Methods** including Finite Element and Finite Difference Methods.
-
-I am passionate about bridging the gap between theoretical mathematical frameworks and practical computational applications using tools like Python, MATLAB, C++, and FEniCS.
-
----
+I possess a strong foundation in advanced mathematics, having secured an All India Rank of 95 in the CSIR - UGC NET and an All India Rank of 173 in GATE Mathematics. My technical workflow is supported by proficiency in C, C++, Python, MATLAB, FreeFEM++, and LaTeX.
