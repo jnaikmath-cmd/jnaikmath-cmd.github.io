@@ -1,5 +1,61 @@
 # al-folio
 
+## Jitendra's Instructions
+## 🖥️ How to Edit This Website on a New Computer
+
+Because this entire website is saved on GitHub, you do not need to start over with a blank template on a new computer. You just need to download this exact repository. 
+
+Here are the two ways to get your files:
+
+### Method 1: The Direct VS Code Connection (Recommended)
+This is the most efficient way to work because it immediately links your new computer to GitHub.
+
+1. Install and open **VS Code** on the new computer.
+2. Open the **Source Control** panel on the left (the branching icon where you normally sync changes).
+3. Click the blue **Clone Repository** button.
+4. Go to this GitHub repository in your web browser, click the green **<> Code** button, and copy the web URL provided.
+5. Paste that URL into the search bar that appears at the top of VS Code and press **Enter**.
+6. Select a local folder on your new computer where you want to save the website files.
+7. VS Code will download everything. You can now edit files and click **Sync Changes** to push updates live, just like normal!
+
+---
+
+### Method 2: The Quick ZIP Download
+If you just want to download the files to look at them or edit them manually:
+
+1. Go to this repository on GitHub.
+2. Click the green **<> Code** button near the top right of the file list.
+3. Select **Download ZIP** from the dropdown menu.
+4. Extract the ZIP file on your computer.
+5. Open that extracted folder in VS Code and start editing.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 [![Preview](readme_preview/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
