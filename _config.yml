@@ -18,6 +18,13 @@ keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your o
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
+# Contact and Socials
+email: "your-email@example.com"
+github_username: "jnaikmath-cmd"
+linkedin_username: "your-linkedin-username"
+scholar_userid: "your-google-scholar-id" 
+cv_pdf: "jitendra_cv.pdf"
+
 url: "https://jnaikmath-cmd.github.io"
 baseurl: ""
 last_updated: false # set to true if you want to display last updated in the footer
