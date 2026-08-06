@@ -7,76 +7,76 @@ ninja.data = [{
     title: "about",
     section: "Navigation",
     handler: () => {
-      window.location.href = "/al-folio/";
+      window.location.href = "/";
     },
   },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/blog/";
+            window.location.href = "/blog/";
           },
         },{id: "nav-publications",
           title: "publications",
           description: "Research initiatives, pre-prints, and works in progress.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/publications/";
+            window.location.href = "/publications/";
           },
         },{id: "nav-projects",
           title: "projects",
           description: "Research initiatives and academic projects in Stochastic Calculus and SciML.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/projects/";
+            window.location.href = "/projects/";
           },
         },{id: "nav-bookshelf",
           title: "bookshelf",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/books/";
+            window.location.href = "/books/";
           },
         },{id: "nav-cv",
           title: "cv",
           description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/cv/";
+            window.location.href = "/cv/";
           },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses assisted during my doctoral studies at IIT Goa.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/teaching/";
+            window.location.href = "/teaching/";
           },
         },{id: "nav-people",
           title: "people",
           description: "Members of the research group.",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/al-folio/people/";
+            window.location.href = "/people/";
           },
         },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/al-folio/books/";
+                window.location.href = "/books/";
               },
             },{id: "dropdown-blog",
               title: "blog",
               description: "",
               section: "Dropdown",
               handler: () => {
-                window.location.href = "/al-folio/blog/";
+                window.location.href = "/blog/";
               },
             },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/al-folio/books/the_godfather/";
+              window.location.href = "/books/the_godfather/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
@@ -84,7 +84,7 @@ ninja.data = [{
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/al-folio/news/announcement_2/";
+              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
@@ -92,28 +92,28 @@ ninja.data = [{
           title: 'PINNs and Feynman-Kac for High-Dimensional PDEs',
           description: "Solving high-dimensional heat equations using a hybrid of Stochastic Calculus and Deep Learning.",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/1_project/";
+              window.location.href = "/projects/1_project/";
             },},{id: "projects-inverse-elliptic-pdes-via-dtn-mapping",
           title: 'Inverse Elliptic PDEs via DtN Mapping',
           description: "A Machine Learning and Finite Element framework for solving inverse problems.",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/2_project/";
+              window.location.href = "/projects/2_project/";
             },},{id: "projects-manual-optimizers-vs-svms-on-mnist",
           title: 'Manual Optimizers vs. SVMs on MNIST',
           description: "A comparative study of optimization algorithms in classical and modern Machine Learning.",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/3_project/";
+              window.location.href = "/projects/3_project/";
             },},{id: "projects-fourth-order-scheme-for-navier-stokes",
           title: 'Fourth-Order Scheme for Navier-Stokes',
           description: "High-order finite difference schemes for steady incompressible flow.",
           section: "Projects",handler: () => {
-              window.location.href = "/al-folio/projects/4_project/";
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/al-folio/assets/pdf/cv.pdf", "_blank");
+          window.open("/assets/pdf/cv.pdf", "_blank");
         },
       },{
         id: 'social-linkedin',
