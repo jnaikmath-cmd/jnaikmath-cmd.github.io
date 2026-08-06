@@ -305,6 +305,10 @@ Run the test yourself: [Google Lighthouse PageSpeed Insights](https://pagespeed.
 <!--ts-->
 
 - [al-folio](#al-folio)
+  - [Jitendra's Instructions](#jitendras-instructions)
+  - [🖥️ How to Edit This Website on a New Computer](#️-how-to-edit-this-website-on-a-new-computer)
+    - [Method 1: The Direct VS Code Connection (Recommended)](#method-1-the-direct-vs-code-connection-recommended)
+    - [Method 2: The Quick ZIP Download](#method-2-the-quick-zip-download)
   - [User community](#user-community)
   - [Lighthouse PageSpeed Insights](#lighthouse-pagespeed-insights)
     - [Desktop](#desktop)
