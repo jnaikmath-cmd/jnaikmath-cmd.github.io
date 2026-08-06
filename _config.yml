@@ -19,10 +19,10 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 # Contact and Socials
-email: "your-email@example.com"
+email: "jnaik.math@gmail.com"
 github_username: "jnaikmath-cmd"
-linkedin_username: "your-linkedin-username"
-scholar_userid: "your-google-scholar-id" 
+linkedin_username: "https://www.linkedin.com/in/jitendra-nath-naik"
+scholar_userid: "62LWp6cAAAAJ" 
 cv_pdf: "jitendra_cv.pdf"
 
 url: "https://jnaikmath-cmd.github.io"
