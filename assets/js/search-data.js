@@ -109,39 +109,39 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/cv.pdf", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/dhiraj-saw-4889a4377", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%64%68%69%72%61%6A%32%34%32%33%32%32%30%33@%69%69%74%67%6F%61.%61%63.%69%6E", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=Kyr2ResAAAAJ", "_blank");
+          window.open("mailto:%6A%6E%61%69%6B.%6D%61%74%68@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/Dhiraj-DJ-79", "_blank");
+          window.open("https://github.com/jnaikmath-cmd", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/jitendra-nath-naik", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=62LWp6cAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-cv',
+        title: 'CV',
+        section: 'Socials',
+        handler: () => {
+          window.open("/jitendra_cv.pdf", "_blank");
         },
       },{
       id: 'light-theme',
