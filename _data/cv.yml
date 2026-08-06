@@ -1,16 +1,16 @@
 cv:
   name: Jitendra Nath Naik
   label: Ph.D. Research Scholar in Mathematics
-  email: "your.email@example.com"
+  email: "jnaik.math@gmail.com"
   location: Goa, India
   image: jitendra.jpg
   summary: I am a Ph.D. Research Scholar in Mathematics at the Indian Institute of Technology (IIT) Goa, working under the supervision of Dr. Lok Pati Tripathi. My research addresses both the theoretical and computational challenges associated with Stochastic Partial Differential Equations (SPDEs). I possess a strong foundation in advanced mathematics and utilize a technical workflow supported by proficiency in C, C++, Python, MATLAB, FreeFEM++, and LaTeX.
 
   social_networks:
     - network: Email
-      username: "your.email@example.com"
+      username: "jnaik.math@gmail.com"
     - network: LinkedIn
-      username: "your-linkedin-username"
+      username: "https://www.linkedin.com/in/jitendra-nath-naik"
     - network: GitHub
       username: "jnaikmath-cmd"
     - network: Google Scholar
@@ -27,43 +27,43 @@ cv:
         location: India
         area: Mathematics
         studyType: Doctor of Philosophy
-        start_date: YYYY
+        start_date: 2021
         end_date: Present
         courses: "Stochastic Partial Differential Equations, Finite Element Methods, Advanced Partial Differential Equations"
         highlights:
           - "Advisor: Dr. Lok Pati Tripathi"
 
-      - institution: Your Master's University Name
-        location: City, India
+      - institution: Utkal University
+        location: Bhubaneswar, India
         area: Mathematics
         studyType: Master of Science
-        start_date: YYYY
-        end_date: YYYY
-        score: "X.XX/10"
+        start_date: 2016
+        end_date: 2018
+        score: "7.70/10"
 
-      - institution: Your Bachelor's University Name
-        location: City, India
+      - institution: Utkal University
+        location: Bhubaneswar, India
         area: Mathematics
         studyType: Bachelor of Science
-        start_date: YYYY
-        end_date: YYYY
-        score: "X.XX/10"
+        start_date: 2013
+        end_date: 2016
+        score: "75.25%"
 
     Experience:
       - company: Indian Institute of Technology, Goa
         position: Ph.D. Research Scholar
         location: Goa, India
-        start_date: YYYY
+        start_date: 2021
         end_date: Present
         summary: Conducting advanced research in multidimensional semilinear SPDEs using a semigroup theoretic approach.
 
     Awards:
       - title: CSIR - UGC NET (Mathematics)
-        date: YYYY
+        date: 2020
         awarder: CSIR/UGC
         summary: "Achieved All India Rank (AIR) 95"
       - title: GATE (Mathematics)
-        date: YYYY
+        date: 2020
         awarder: Ministry of Education
         summary: "Achieved All India Rank (AIR) 173"
 
@@ -86,8 +86,10 @@ cv:
       - name: English
         summary: Fluent
       - name: Hindi
+        summary: Fluent
+      - name: Odia
         summary: Native
-
+        
     Interests:
       - name: Research
         keywords: "Stochastic Partial Differential Equations (SPDEs), Finite Element Method (FEM), Semigroup Theory, Parabolic SPDEs, Infinite-Dimensional Vector Spaces"
