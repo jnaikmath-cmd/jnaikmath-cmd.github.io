@@ -19,10 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am Jitendra Nath Naik, a Ph.D. Research Scholar in Mathematics at the Indian Institute of Technology (IIT) Goa, working under the supervision of Dr. Lok Pati Tripathi.
+I am Jitendra Nath Naik, a Ph.D. Scholar in Mathematics at the Indian Institute of Technology (IIT) Goa, working under the supervision of Dr. Lok Pati Tripathi.
 
 My research addresses both the theoretical and computational challenges associated with Stochastic Partial Differential Equations (SPDEs). On the theoretical side, I investigate the well-posedness and regularity of solutions for these equations. Computationally, I focus on developing robust numerical algorithms for SPDEs, implementing and verifying these methods utilizing MATLAB and FreeFEM++.
 
-Currently, I am preparing and submitting manuscripts focused on optimal error estimates of Finite Element Methods for semilinear SPDEs, as well as the pathwise regularity for multidimensional semilinear SPDEs with rough initial data. 
-
-I possess a strong foundation in advanced mathematics, having secured an All India Rank of 95 in the CSIR - UGC NET and an All India Rank of 173 in GATE Mathematics. My technical workflow is supported by proficiency in C, C++, Python, MATLAB, FreeFEM++, and LaTeX.
