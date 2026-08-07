@@ -37,6 +37,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
+        },{id: "nav-cv",
+          title: "cv",
+          description: "A summary of my academic background and research experience.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cv/";
+          },
         },{id: "nav-teaching",
           title: "teaching",
           description: "Courses assisted during my doctoral studies at IIT Goa.",
